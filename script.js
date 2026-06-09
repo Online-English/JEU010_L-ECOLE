@@ -102,9 +102,7 @@ const fruitsData = [
     { en: "School bus", fr: "Bus scolaire", emoji: "🚌", level: 5 },
     { en: "Staff room", fr: "Salle des professeurs", emoji: "☕", level: 5 },
     { en: "Infirmary", fr: "Infirmerie", emoji: "🏥", level: 5 },
-    { en: "School nurse", fr: "Infirmière scolaire", 
-
-emoji: "🩺", level: 5 },
+    { en: "School nurse", fr: "Infirmière scolaire", emoji: "🩺", level: 5 },
     { en: "Secretary", fr: "Secrétaire", emoji: "🧑‍💻", level: 5 },
     { en: "Courtyard supervisor", fr: "Surveillant", emoji: "🗣️", level: 5 },
     { en: "Parent-teacher meeting", fr: "Réunion parents-profs", emoji: "👥", level: 5 },
@@ -133,7 +131,7 @@ emoji: "🩺", level: 5 },
     { en: "Punishment", fr: "Punition", emoji: "🔲", level: 6 },
     { en: "Detention", fr: "Retenue / Heure de colle", emoji: "🪑", level: 6 },
     { en: "School trip", fr: "Excursion scolaire", emoji: "🚌", level: 6 },
-    { en: "Vacation", fr: "Vacances scolaires", emoji: "🏖️", level: 7 }, // Équilibré
+    { en: "Vacation", fr: "Vacances scolaires", emoji: "🏖️", level: 6 }, // Équilibré
     { en: "Degree", fr: "Grade / Diplôme d'études", emoji: "🎓", level: 6 },
 
     // NIVEAU 7 : Les verbes de l'apprentissage (L'action en classe) (20 mots)
